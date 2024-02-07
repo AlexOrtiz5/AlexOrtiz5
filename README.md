@@ -16,7 +16,14 @@ I just finished a virtual three-month Ironhack Miami bootcamp from Puerto Rico. 
 
 Prior to that, I had just received my degree in computer science with a cybersecurity minor from the University of Puerto Rico, Rio Piedras.
 
-## Experience in: `Python`, `Pandas`, `MySQL`, `Tableau`
+## Experience in: 
+- `Python`
+- `Pandas`
+- `MySQL`
+- `Tableau`
+
+## Contact:
+- LinkedIn: [AlexOrtiz5](www.linkedin.com/in/alexortiz5)
 
 <!--
 **AlexOrtiz5/AlexOrtiz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
